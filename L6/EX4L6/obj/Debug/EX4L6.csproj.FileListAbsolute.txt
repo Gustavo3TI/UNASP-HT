@@ -1,0 +1,7 @@
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\bin\Debug\EX4L6.exe.config
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\bin\Debug\EX4L6.exe
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\bin\Debug\EX4L6.pdb
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\obj\Debug\EX4L6.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\obj\Debug\EX4L6.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\obj\Debug\EX4L6.exe
+C:\Users\gustavo.11082\source\repos\EX4L6\EX4L6\obj\Debug\EX4L6.pdb

@@ -1,0 +1,6 @@
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\bin\Debug\Lista7Ex001.exe.config
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\bin\Debug\Lista7Ex001.exe
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\bin\Debug\Lista7Ex001.pdb
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\obj\Debug\Lista7Ex001.csproj.CoreCompileInputs.cache
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\obj\Debug\Lista7Ex001.exe
+c:\users\junior.46668\source\repos\Lista7Ex001\Lista7Ex001\obj\Debug\Lista7Ex001.pdb
